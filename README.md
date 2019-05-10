@@ -18,6 +18,13 @@ python -m spacy link en_core_web_md en
 pip install nodejs
 npm i -g rasa-nlu-trainer
 ```
+### Dataset
+Due to the un-availability of the standard dataset, a custom travel review dataset was created. Which takes into consideration:
+- Traffic conditions
+- Weather conditions
+- Nearby attractions like : restaurants, parks etc
+- Road conditions
+
 Sample:
 > *During our journey from Trivandrum to Thrissur, the road was in **good** condition, the weather was **fine** and the traffic was **less** during the wee hours. There was **lot** of restaurants and mall nearby Kochi area.*
 
