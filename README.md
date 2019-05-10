@@ -26,11 +26,10 @@ Sample:
 ### Working
 The tagged data will be saved as json format. This json format will be then taken as input file for training by the rasa module.The training can be started by running `train.py` and the trained model will be saved in the projects folder.The testing is done by running the `test.py`. During the testing phase, the trained model will be loaded and a sample sentence will be passed to the testing module. The module returns a json format with intents and entities. 
 
-<img src="https://github.com/sooraj-sudhakar/Travel_route/blob/master/output.png" width="720">
+<img src="https://github.com/sooraj-sudhakar/Travel_route/blob/master/output.png" width="1024">
 
 The word polarities(using nltk) of the entities will be used to calculated a score and in this manner the total score will be calculated. The difficulty score ranges from 0-5, 5 being the most difficult to travel. The score from each individual review in that route will be then averaged to get the overall difficulty score in that specified route. 
 ### Sample output
-the traffic from thrissur to kochi was fine and weather is good	0	fine	0	good	0	2.8125
 
 | Input text | Road condition |Traffic condition | Scenary data | Weather condition | Difficulty score |
 | ------ | ------ | ------ | ------ | ------ | ------ |
