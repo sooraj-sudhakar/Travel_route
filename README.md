@@ -18,17 +18,21 @@ python -m spacy link en_core_web_md en
 pip install nodejs
 npm i -g rasa-nlu-trainer
 ```
-### Dataset
-Due to the un-availability of the standard dataset, a custom travel review dataset was created. Which takes into consideration:
-- Traffic conditions
-- Weather conditions
-- Nearby attractions like : restaurants, parks etc
-- Road conditions
-
 Sample:
-> During our journey from Trivandrum to Thrissur, the road was in good condition, the weather was fine and the traffic was less during the wee hours. There was lot of restaurants and mall nearby Kochi area.
+> *During our journey from Trivandrum to Thrissur, the road was in **good** condition, the weather was **fine** and the traffic was **less** during the wee hours. There was **lot** of restaurants and mall nearby Kochi area.*
 
 <img src="https://github.com/sooraj-sudhakar/Travel_route/blob/master/data_taggin.gif" width="1024">
 
 ### Working
-Rasa nlu will be trained with 
+The tagged data will be saved as json format. This json format will be then taken as input file for training by the rasa module.The training can be started by running `train.py` and the trained model will be saved in the projects folder.The testing is done by running the `test.py`. During the testing phase, the trained model will be loaded and a sample sentence will be passed to the testing module. The module returns a json format with intents and entities. 
+
+<img src="https://github.com/sooraj-sudhakar/Travel_route/blob/master/output.png" width="720">
+
+The word polarities(using nltk) of the entities will be used to calculated a score and in this manner the total score will be calculated. The difficulty score ranges from 0-5, 5 being the most difficult to travel. The score from each individual review in that route will be then averaged to get the overall difficulty score in that specified route. 
+### Sample output
+the traffic from thrissur to kochi was fine and weather is good	0	fine	0	good	0	2.8125
+
+| Input text | Road condition |Traffic condition | Scenary data | Weather condition | Difficulty score |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| the traffic from thrissur to kochi was fine and weather is good |0 |fine |0 |good |2.8125
+| There was few restuarants on the way from Kollam to Kottayam,the road was smooth and then traffic was less. |smooth |less |few restuarants |0 |1.4137
