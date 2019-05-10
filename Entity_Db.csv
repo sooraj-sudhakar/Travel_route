@@ -1,0 +1,564 @@
+,Input_text,road_condition,traffic_condition,scenary_data,weather_codition,attractions,Difficulty_score
+0,The road from thrissur to palalkd is smootha nd the traffice is less,smootha,less,0,0,0,0.625
+1,the traffic from thrissur to kochi was fine and weather is good,0,fine,0,good,0,2.8125
+2,"Last week, drove to/fro to attend a funeral at Ettumanoor. Route taken was Bangalore-Salem-Pollachi-Nenmara-Vadakancherry-MC Road-Ettumanoor. Took almost 11 hours including breaks. Kuthiran stretch roads were non existent.   While returning (25th- onam day), avoided Pollachi, and instead opted for the direct route. Time taken was 10 hours. Crossed Kuthiran stretch around 1630 hours, and traffic was much less compared to previous day. Sad to see the destruction and damage caused by flood/rain.",0,much less,0,0,0,0.46875
+3,travel from thrissur to palakkad Kuthiran had low traffic at around 12:30 PM. Roads go from bad to worse to worst as you progress from start of tunnel section towards Pattikkad. Section between Kuthiran and Pattikkad is in its worst condition I've seen in a while.,0,low traffic at around 12:30 pm,0,0,0,2.708333333333333
+4,"Took the NH47 > Alathur > Pazhayannur > Chelakara > Wadakancherry > Thrissur. After you turn off from the highway, the roads are good albeit winding and narrow.",good,0,0,albeit winding and narrow,0,0.8333333333333333
+5,from Kodangallur toThrissur route is when the surface of road gets bad.,0,0,0,0,0,1.0
+6,Drove from Palakkad to Kozhikode today. Took Mundur Kongad Cherpulassery Perinthalmanna route. The roads are very bad and almost non existant from Kongad to Mangalamkunnu. ,very bad and almost non existant,0,0,0,0,0.8333333333333333
+7,"I had travelled from Trivandrum to Ranny (Mannamaruthy) yesterday. The MC road upto Adoor is in good shape. I faced traffic jams in Venjaramood and Kottarakara, the delay of about 15 minutes waiting for the police to clear the traffic.I had travelled from Trivandrum to Ranny (Mannamaruthy) yesterday. The MC road upto Adoor is in good shape. I faced traffic jams in Venjaramood and Kottarakara, the delay of about 15 minutes waiting for the police to clear the traffic.Roads in Ranny and upto Mannamaruthy are in general ok with some potholed sections.",ok,0,0,0,0,1.25
+8, I did the Palakkad - Ottapalam - Kulappully - Thrissur stretch earlier this week and in spite of the monsoon rain it was a superb drive. Excellent road and the celebrated green of Valluvanad in all its glory. I was told the NH between Thrissur and Palakkad remains in a rotten state.,Excellent road,0,0,0,0,1.25
+9,"the road via Muvattupuzha, Thodupuzha, Kanhar, right? Those are the best roads in the state as of now. That crazy climb up Moolamattom to Naadukaani is just amazing. Then, carry on forward till Cheruthoni, Idukki and Ramakkalmedu to attain complete Nirwana. Something to be experienced atleast once in a lifetime.",best,0,0,0,0,0.0
+10,There are unlimited attractions all the way from Cochin. The best being the Wild elephants and other animals near/before Painavu. The best is to take a powerful rear wheel drive one. Makes up for a perfect Weekend drive from here.,0,0,0,0,wild elephants and other animals near / before painavu .,1.0416666666666667
+11,Perinthalmanna till Pulamanthole is silky smooth and wider now with a relaid road. Pulamanthole >Pattambi > Perumbilavu is patched and some portions are relaid(manual) so good enuf to cruise at 50-60 kmph. The bridge at Palakkad-Thrissur district border (near Chalissery) is reconstructed and so a 75m wayside diversion is present which is very uneven and vehicles with low GC better watchout. Perumbilavu till Guruvayoor thru Kunnamkulam is as before with no issues,0,0,0,0,0,0.0
+12,"from cochin to Bangalore Traffic towards Blore was low but had huge number of trucks. Passed TCR toll at around 4.30am and the queue towards Cochin was long even during the wee hours.  Kuthiran is all good except for the slow traffic.Coimbatore bypass is a joke. Easily lost good time here. Like excepted, traffic towards Kerala was huge. Scanning the code each time takes a lot of time.",0,huge,0,0,0,0.1875
+13,travel from thrissur to palakkad the ottapalam shornur route was good.its quickly reaches the destination.there were a kerala kalamandalam and nila river etc are the attractions.the weather is good.traffic is less,0,less,0,0,kerala kalamandalam and nila river,1.12012987012987
+14,"Travel from thrissur to palakkad,the route from wadakkanchery to chelakkara mayannur the road was very smooth.there have less traffic.there have good weather.that was a village area.so many trees and attractions are there.also pineapple vegetations we can see there",0,0,0,0,0,0.0
+15,"travel from thrissur to palakkad,the kuthiran road was huge traffic.",0,0,0,0,0,1.375
+16,coimbatore-vaalayar-palakkad-trichur-angamaly-cochin is the route.....road work is going on upto vaalayar...from vaalayar to cochin 4 way road work is finished....now the road condition is good.....no need of pollachi route,good,0,0,0,0,1.125
+17,"Coimbatore to Valayar and Palakad to Thrissur sections are not good. But still, it is much better than any other route. Approx travel time-4.30 to 5.30 hrs depending on traffic.",much better than any other route,0,0,0,0,0.0
+18,Coimbatore to Palakkad is direct and you have a good road. If you are travelling from Udumalpet and if you do not want to touch Coimbatore then rake a diversion in Pollachi to Palakkad. Road condition is ok but you save time and distance.,0,0,0,0,0,0.0
+19,"from thrissur to ernamkulam,the NH road services are excellent.its a good road.the weather conditions does not effect the roads.the traffic in school time and office times are huge.the night drive is ok",0,0,0,0,0,0.0
+20,From Vadakkanchery to Thrissur is newly laid road now though it's single road (two lane) but traffic is heavy. I just came back to Palakkad on this stretch an hour back.,0,heavy,0,0,0,1.3480392156862744
+21,Roads from cochin to Munnar and from there to alapuzha are all fine good ..NH85 highway is narrow and traffic blocks are regular in the evening,fine good,0,0,0,0,1.019736842105263
+22,Muvattupuzha-munnar route which is less congested in the early morning. the road has several dangerous curves that you had better be careful while cornering the curves.,dangerous curves,0,0,0,0,0.0
+23,Munnar is refreshingly cooler than the coast and other town. if you are visiting in January it is relatively warm other places in munnar the temperatures drop considerably after the sun goes down,0,0,0,relatively warm,0,0.75
+24,From vaalayar to cochin 4 way road work is finished.. now the road condition is good,0,0,0,0,0,0.0
+25,The traffic from Alappuzha to Ernakulam is heavy,0,heavy,0,0,0,0.19230769230769232
+26,Traffic was heavy while driving from Alappuzha to Ernakulam,0,heavy,0,0,0,0.17857142857142855
+27,The traffic from Alappuzha to Ernakulam is very smooth,0,very smooth,0,0,0,0.3125
+28,Traffic was very smooth while driving from Alappuzha to Ernakulam,0,very smooth,0,0,0,0.41666666666666663
+29,The traffic from Alappuzha to Ernakulam is crawling,0,crawling,0,0,0,0.39473684210526316
+30,Traffic was crawling while driving from Alappuzha to Ernakulam,0,crawling,0,0,0,0.375
+31,The traffic from Ernakulam to Idukki is heavy,0,heavy,0,0,0,0.3571428571428571
+32,Traffic was heavy while driving from Ernakulam to Idukki,0,heavy,0,0,0,0.3409090909090909
+33,The traffic from Ernakulam to Idukki is very smooth,0,very smooth,0,0,0,0.41666666666666663
+34,Traffic was very smooth while driving from Ernakulam to Idukki,0,very smooth,0,0,0,0.4807692307692308
+35,The traffic from Ernakulam to Idukki is crawling,0,crawling,0,0,0,0.4629629629629629
+36,Traffic was crawling while driving from Ernakulam to Idukki,0,crawling,0,0,0,0.44642857142857145
+37,The traffic from Idukki to Kannur is heavy,0,heavy,0,0,0,0.4310344827586207
+38,Traffic was heavy while driving from Idukki to Kannur,0,heavy,0,0,0,0.41666666666666663
+39,The traffic from Idukki to Kannur is very smooth,0,very smooth,0,0,0,0.46875
+40,Traffic was very smooth while driving from Idukki to Kannur,0,very smooth,0,0,0,0.5147058823529411
+41,The traffic from Idukki to Kannur is crawling,0,crawling,0,0,0,0.5
+42,Traffic was crawling while driving from Idukki to Kannur,0,crawling,0,0,0,0.4861111111111111
+43,The traffic from Kannur to Kasaragod is heavy,0,heavy,0,0,0,0.472972972972973
+44,Traffic was heavy while driving from Kannur to Kasaragod,0,heavy,0,0,0,0.4605263157894737
+45,The traffic from Kannur to Kasaragod is very smooth,0,very smooth,0,0,0,0.5
+46,Traffic was very smooth while driving from Kannur to Kasaragod,0,very smooth,0,0,0,0.5357142857142857
+47,The traffic from Kannur to Kasaragod is crawling,0,crawling,0,0,0,0.5232558139534884
+48,Traffic was crawling while driving from Kannur to Kasaragod,0,crawling,0,0,0,0.5113636363636364
+49,The traffic from Kasaragod to Kollam is heavy,0,heavy,0,0,0,0.5
+50,Traffic was heavy while driving from Kasaragod to Kollam,0,heavy,0,0,0,0.4891304347826087
+51,The traffic from Kasaragod to Kollam is very smooth,0,very smooth,0,0,0,0.5208333333333334
+52,Traffic was very smooth while driving from Kasaragod to Kollam,0,very smooth,0,0,0,0.55
+53,The traffic from Kasaragod to Kollam is crawling,0,crawling,0,0,0,0.5392156862745099
+54,Traffic was crawling while driving from Kasaragod to Kollam,0,crawling,0,0,0,0.5288461538461539
+55,The traffic from Kollam to Kottayam is heavy,0,heavy,0,0,0,0.5188679245283019
+56,Traffic was heavy while driving from Kollam to Kottayam,0,heavy,0,0,0,0.5092592592592592
+57,The traffic from Kollam to Kottayam is very smooth,0,very smooth,0,0,0,0.5357142857142857
+58,Traffic was very smooth while driving from Kollam to Kottayam,0,very smooth,0,0,0,0.5603448275862069
+59,The traffic from Kollam to Kottayam is crawling,0,crawling,0,0,0,0.5508474576271186
+60,Traffic was crawling while driving from Kollam to Kottayam,0,crawling,0,0,0,0.5416666666666667
+61,The traffic from Kottayam to Kozhikode is heavy,0,heavy,0,0,0,0.5327868852459016
+62,Traffic was heavy while driving from Kottayam to Kozhikode,0,heavy,0,0,0,0.5241935483870968
+63,The traffic from Kottayam to Kozhikode is very smooth,0,very smooth,0,0,0,0.546875
+64,Traffic was very smooth while driving from Kottayam to Kozhikode,0,very smooth,0,0,0,0.5681818181818181
+65,The traffic from Kottayam to Kozhikode is crawling,0,crawling,0,0,0,0.5597014925373135
+66,Traffic was crawling while driving from Kottayam to Kozhikode,0,crawling,0,0,0,0.5514705882352942
+67,The traffic from Kozhikode to Malappuram is heavy,0,heavy,0,0,0,0.5434782608695652
+68,Traffic was heavy while driving from Kozhikode to Malappuram,0,heavy,0,0,0,0.5357142857142857
+69,The traffic from Kozhikode to Malappuram is very smooth,0,very smooth,0,0,0,0.5555555555555556
+70,Traffic was very smooth while driving from Kozhikode to Malappuram,0,very smooth,0,0,0,0.5743243243243243
+71,The traffic from Kozhikode to Malappuram is crawling,0,crawling,0,0,0,0.5666666666666667
+72,Traffic was crawling while driving from Kozhikode to Malappuram,0,crawling,0,0,0,0.5592105263157895
+73,The traffic from Malappuram to Palakkad is heavy,0,heavy,0,0,0,0.551948051948052
+74,Traffic was heavy while driving from Malappuram to Palakkad,0,heavy,0,0,0,0.5448717948717949
+75,The traffic from Malappuram to Palakkad is very smooth,0,very smooth,0,0,0,0.5625
+76,Traffic was very smooth while driving from Malappuram to Palakkad,0,very smooth,0,0,0,0.5792682926829269
+77,The traffic from Malappuram to Palakkad is crawling,0,crawling,0,0,0,0.572289156626506
+78,Traffic was crawling while driving from Malappuram to Palakkad,0,crawling,0,0,0,0.5654761904761905
+79,The traffic from Palakkad to Pathanamthitta is heavy,0,heavy,0,0,0,0.5588235294117647
+80,Traffic was heavy while driving from Palakkad to Pathanamthitta,0,heavy,0,0,0,0.5523255813953488
+81,The traffic from Palakkad to Pathanamthitta is very smooth,0,very smooth,0,0,0,0.5681818181818181
+82,Traffic was very smooth while driving from Palakkad to Pathanamthitta,0,very smooth,0,0,0,0.5833333333333334
+83,The traffic from Palakkad to Pathanamthitta is crawling,0,crawling,0,0,0,0.576923076923077
+84,Traffic was crawling while driving from Palakkad to Pathanamthitta,0,crawling,0,0,0,0.5706521739130435
+85,The traffic from Pathanamthitta to Thiruvananthapuram is heavy,0,heavy,0,0,0,0.564516129032258
+86,Traffic was heavy while driving from Pathanamthitta to Thiruvananthapuram,0,heavy,0,0,0,0.5585106382978723
+87,The traffic from Pathanamthitta to Thiruvananthapuram is very smooth,0,very smooth,0,0,0,0.5729166666666666
+88,Traffic was very smooth while driving from Pathanamthitta to Thiruvananthapuram,0,very smooth,0,0,0,0.5867346938775511
+89,The traffic from Pathanamthitta to Thiruvananthapuram is crawling,0,crawling,0,0,0,0.5808080808080808
+90,Traffic was crawling while driving from Pathanamthitta to Thiruvananthapuram,0,crawling,0,0,0,0.5750000000000001
+91,The traffic from Thiruvananthapuram to Thrissur is heavy,0,heavy,0,0,0,0.5693069306930694
+92,Traffic was heavy while driving from Thiruvananthapuram to Thrissur,0,heavy,0,0,0,0.5637254901960784
+93,The traffic from Thiruvananthapuram to Thrissur is very smooth,0,very smooth,0,0,0,0.576923076923077
+94,Traffic was very smooth while driving from Thiruvananthapuram to Thrissur,0,very smooth,0,0,0,0.589622641509434
+95,The traffic from Thiruvananthapuram to Thrissur is crawling,0,crawling,0,0,0,0.5841121495327103
+96,Traffic was crawling while driving from Thiruvananthapuram to Thrissur,0,crawling,0,0,0,0.5787037037037037
+97,The traffic from Thrissur to Wayanad is heavy,0,heavy,0,0,0,0.573394495412844
+98,Traffic was heavy while driving from Thrissur to Wayanad,0,heavy,0,0,0,0.5681818181818181
+99,The traffic from Thrissur to Wayanad is very smooth,0,very smooth,0,0,0,0.5803571428571429
+100,Traffic was very smooth while driving from Thrissur to Wayanad,0,very smooth,0,0,0,0.5921052631578947
+101,The traffic from Thrissur to Wayanad is crawling,0,crawling,0,0,0,0.5869565217391305
+102,Traffic was crawling while driving from Thrissur to Wayanad,0,crawling,0,0,0,1.550646551724138
+103,The road from Alappuzha to Ernakulam are smooth,smooth,0,0,0,0,0.9226190476190477
+104,Roads were smooth while driving from Alappuzha to Ernakulam,smooth,0,0,0,0,0.9510869565217392
+105,The road from Alappuzha to Ernakulam are very smooth,very smooth,0,0,0,0,0.9750000000000001
+106,Roads were very smooth while driving from Alappuzha to Ernakulam,very smooth,0,0,0,0,0.985576923076923
+107,The road from Alappuzha to Ernakulam are broken,broken,0,0,0,0,0.9953703703703703
+108,Roads were broken while driving from Alappuzha to Ernakulam,broken,0,0,0,0,0.9598214285714286
+109,The road from Alappuzha to Ernakulam are bumpy,bumpy,0,0,0,0,0.9267241379310345
+110,Roads were bumpy while driving from Alappuzha to Ernakulam,bumpy,0,0,0,0,0.967741935483871
+111,The road from Alappuzha to Ernakulam are easy going,easy going,0,0,0,0,1.0037878787878787
+112,Roads were easy going while driving from Alappuzha to Ernakulam,easy going,0,0,0,0,0.9742647058823529
+113,The road from Alappuzha to Ernakulam are bad,bad,0,0,0,0,0.9464285714285714
+114,Roads were bad while driving from Alappuzha to Ernakulam,bad,0,0,0,0,0.920138888888889
+115,The road from Ernakulam to Idukki are smooth,smooth,0,0,0,0,0.8952702702702703
+116,Roads were smooth while driving from Ernakulam to Idukki,smooth,0,0,0,0,0.9134615384615384
+117,The road from Ernakulam to Idukki are very smooth,very smooth,0,0,0,0,0.9298780487804879
+118,Roads were very smooth while driving from Ernakulam to Idukki,very smooth,0,0,0,0,0.9375
+119,The road from Ernakulam to Idukki are broken,broken,0,0,0,0,0.9447674418604651
+120,Roads were broken while driving from Ernakulam to Idukki,broken,0,0,0,0,0.9232954545454546
+121,The road from Ernakulam to Idukki are bumpy,bumpy,0,0,0,0,0.9027777777777778
+122,Roads were bumpy while driving from Ernakulam to Idukki,bumpy,0,0,0,0,0.9308510638297872
+123,The road from Ernakulam to Idukki are easy going,easy going,0,0,0,0,0.9566326530612245
+124,Roads were easy going while driving from Ernakulam to Idukki,easy going,0,0,0,0,0.9375
+125,The road from Ernakulam to Idukki are bad,bad,0,0,0,0,0.9191176470588236
+126,Roads were bad while driving from Ernakulam to Idukki,bad,0,0,0,0,0.9014423076923077
+127,The road from Idukki to Kannur are smooth,smooth,0,0,0,0,0.8844339622641508
+128,Roads were smooth while driving from Idukki to Kannur,smooth,0,0,0,0,0.8977272727272727
+129,The road from Idukki to Kannur are very smooth,very smooth,0,0,0,0,0.9100877192982457
+130,Roads were very smooth while driving from Idukki to Kannur,very smooth,0,0,0,0,0.915948275862069
+131,The road from Idukki to Kannur are broken,broken,0,0,0,0,0.9216101694915255
+132,Roads were broken while driving from Idukki to Kannur,broken,0,0,0,0,0.90625
+133,The road from Idukki to Kannur are bumpy,bumpy,0,0,0,0,0.8913934426229508
+134,Roads were bumpy while driving from Idukki to Kannur,bumpy,0,0,0,0,0.9126984126984127
+135,The road from Idukki to Kannur are easy going,easy going,0,0,0,0,0.9326923076923077
+136,Roads were easy going while driving from Idukki to Kannur,easy going,0,0,0,0,0.9185606060606061
+137,The road from Idukki to Kannur are bad,bad,0,0,0,0,0.9048507462686567
+138,Roads were bad while driving from Idukki to Kannur,bad,0,0,0,0,0.8915441176470589
+139,The road from Kannur to Kasaragod are smooth,smooth,0,0,0,0,0.8786231884057971
+140,Roads were smooth while driving from Kannur to Kasaragod,smooth,0,0,0,0,0.8890845070422536
+141,The road from Kannur to Kasaragod are very smooth,very smooth,0,0,0,0,0.898972602739726
+142,Roads were very smooth while driving from Kannur to Kasaragod,very smooth,0,0,0,0,0.9037162162162162
+143,The road from Kannur to Kasaragod are broken,broken,0,0,0,0,0.9083333333333333
+144,Roads were broken while driving from Kannur to Kasaragod,broken,0,0,0,0,0.8963815789473684
+145,The road from Kannur to Kasaragod are bumpy,bumpy,0,0,0,0,0.8847402597402597
+146,Roads were bumpy while driving from Kannur to Kasaragod,bumpy,0,0,0,0,0.9018987341772151
+147,The road from Kannur to Kasaragod are easy going,easy going,0,0,0,0,0.91820987654321
+148,Roads were easy going while driving from Kannur to Kasaragod,easy going,0,0,0,0,0.9070121951219512
+149,The road from Kannur to Kasaragod are bad,bad,0,0,0,0,0.8960843373493976
+150,Roads were bad while driving from Kannur to Kasaragod,bad,0,0,0,0,0.8854166666666667
+151,The road from Kasaragod to Kollam are smooth,smooth,0,0,0,0,0.875
+152,Roads were smooth while driving from Kasaragod to Kollam,smooth,0,0,0,0,0.8836206896551724
+153,The road from Kasaragod to Kollam are very smooth,very smooth,0,0,0,0,0.8918539325842696
+154,Roads were very smooth while driving from Kasaragod to Kollam,very smooth,0,0,0,0,0.8958333333333334
+155,The road from Kasaragod to Kollam are broken,broken,0,0,0,0,0.8997252747252747
+156,Roads were broken while driving from Kasaragod to Kollam,broken,0,0,0,0,0.8899456521739131
+157,The road from Kasaragod to Kollam are bumpy,bumpy,0,0,0,0,0.8803763440860215
+158,Roads were bumpy while driving from Kasaragod to Kollam,bumpy,0,0,0,0,0.8947368421052632
+159,The road from Kasaragod to Kollam are easy going,easy going,0,0,0,0,0.9085051546391752
+160,Roads were easy going while driving from Kasaragod to Kollam,easy going,0,0,0,0,0.899234693877551
+161,The road from Kasaragod to Kollam are bad,bad,0,0,0,0,0.8901515151515151
+162,Roads were bad while driving from Kasaragod to Kollam,bad,0,0,0,0,0.88125
+163,The road from Kollam to Kottayam are smooth,smooth,0,0,0,0,0.8725247524752475
+164,Roads were smooth while driving from Kollam to Kottayam,smooth,0,0,0,0,0.8798543689320388
+165,The road from Kollam to Kottayam are very smooth,very smooth,0,0,0,0,0.886904761904762
+166,Roads were very smooth while driving from Kollam to Kottayam,very smooth,0,0,0,0,0.8903301886792453
+167,The road from Kollam to Kottayam are broken,broken,0,0,0,0,0.8936915887850467
+168,Roads were broken while driving from Kollam to Kottayam,broken,0,0,0,0,0.8854166666666667
+169,The road from Kollam to Kottayam are bumpy,bumpy,0,0,0,0,0.8772935779816514
+170,Roads were bumpy while driving from Kollam to Kottayam,bumpy,0,0,0,0,0.8896396396396395
+171,The road from Kollam to Kottayam are easy going,easy going,0,0,0,0,0.9015486725663717
+172,Roads were easy going while driving from Kollam to Kottayam,easy going,0,0,0,0,0.893640350877193
+173,The road from Kollam to Kottayam are bad,bad,0,0,0,0,0.8858695652173914
+174,Roads were bad while driving from Kollam to Kottayam,bad,0,0,0,0,0.8782327586206896
+175,The road from Kottayam to Kozhikode are smooth,smooth,0,0,0,0,0.8707264957264957
+176,Roads were smooth while driving from Kottayam to Kozhikode,smooth,0,0,0,0,0.8771008403361344
+177,The road from Kottayam to Kozhikode are very smooth,very smooth,0,0,0,0,0.8832644628099173
+178,Roads were very smooth while driving from Kottayam to Kozhikode,very smooth,0,0,0,0,0.8862704918032787
+179,The road from Kottayam to Kozhikode are broken,broken,0,0,0,0,0.8892276422764228
+180,Roads were broken while driving from Kottayam to Kozhikode,broken,0,0,0,0,0.8820564516129032
+181,The road from Kottayam to Kozhikode are bumpy,bumpy,0,0,0,0,0.875
+182,Roads were bumpy while driving from Kottayam to Kozhikode,bumpy,0,0,0,0,0.8858267716535433
+183,The road from Kottayam to Kozhikode are easy going,easy going,0,0,0,0,0.8963178294573644
+184,Roads were easy going while driving from Kottayam to Kozhikode,easy going,0,0,0,0,0.889423076923077
+185,The road from Kottayam to Kozhikode are bad,bad,0,0,0,0,0.8826335877862596
+186,Roads were bad while driving from Kottayam to Kozhikode,bad,0,0,0,0,0.8759469696969697
+187,The road from Kozhikode to Malappuram are smooth,smooth,0,0,0,0,0.8693609022556391
+188,Roads were smooth while driving from Kozhikode to Malappuram,smooth,0,0,0,0,0.875
+189,The road from Kozhikode to Malappuram are very smooth,very smooth,0,0,0,0,0.8804744525547445
+190,Roads were very smooth while driving from Kozhikode to Malappuram,very smooth,0,0,0,0,0.8831521739130435
+191,The road from Kozhikode to Malappuram are broken,broken,0,0,0,0,0.8857913669064749
+192,Roads were broken while driving from Kozhikode to Malappuram,broken,0,0,0,0,0.8794642857142858
+193,The road from Kozhikode to Malappuram are bumpy,bumpy,0,0,0,0,0.8732269503546098
+194,Roads were bumpy while driving from Kozhikode to Malappuram,bumpy,0,0,0,0,0.8828671328671328
+195,The road from Kozhikode to Malappuram are easy going,easy going,0,0,0,0,0.8922413793103448
+196,Roads were easy going while driving from Kozhikode to Malappuram,easy going,0,0,0,0,0.8861301369863013
+197,The road from Kozhikode to Malappuram are bad,bad,0,0,0,0,0.8801020408163265
+198,Roads were bad while driving from Kozhikode to Malappuram,bad,0,0,0,0,0.8741554054054055
+199,The road from Malappuram to Palakkad are smooth,smooth,0,0,0,0,0.868288590604027
+200,Roads were smooth while driving from Malappuram to Palakkad,smooth,0,0,0,0,0.8733443708609272
+201,The road from Malappuram to Palakkad are very smooth,very smooth,0,0,0,0,0.8782679738562091
+202,Roads were very smooth while driving from Malappuram to Palakkad,very smooth,0,0,0,0,0.8806818181818182
+203,The road from Malappuram to Palakkad are broken,broken,0,0,0,0,0.8830645161290323
+204,Roads were broken while driving from Malappuram to Palakkad,broken,0,0,0,0,0.877403846153846
+205,The road from Malappuram to Palakkad are bumpy,bumpy,0,0,0,0,0.8718152866242037
+206,Roads were bumpy while driving from Malappuram to Palakkad,bumpy,0,0,0,0,0.880503144654088
+207,The road from Malappuram to Palakkad are easy going,easy going,0,0,0,0,0.8889751552795031
+208,Roads were easy going while driving from Malappuram to Palakkad,easy going,0,0,0,0,0.8834876543209877
+209,The road from Malappuram to Palakkad are bad,bad,0,0,0,0,0.8780674846625768
+210,Roads were bad while driving from Malappuram to Palakkad,bad,0,0,0,0,0.8727134146341463
+211,The road from Palakkad to Pathanamthitta are smooth,smooth,0,0,0,0,0.8674242424242424
+212,Roads were smooth while driving from Palakkad to Pathanamthitta,smooth,0,0,0,0,0.8720059880239521
+213,The road from Palakkad to Pathanamthitta are very smooth,very smooth,0,0,0,0,0.8764792899408285
+214,Roads were very smooth while driving from Palakkad to Pathanamthitta,very smooth,0,0,0,0,0.8786764705882353
+215,The road from Palakkad to Pathanamthitta are broken,broken,0,0,0,0,0.8808479532163743
+216,Roads were broken while driving from Palakkad to Pathanamthitta,broken,0,0,0,0,0.8757267441860466
+217,The road from Palakkad to Pathanamthitta are bumpy,bumpy,0,0,0,0,0.8706647398843931
+218,Roads were bumpy while driving from Palakkad to Pathanamthitta,bumpy,0,0,0,0,0.8785714285714286
+219,The road from Palakkad to Pathanamthitta are easy going,easy going,0,0,0,0,0.8862994350282485
+220,Roads were easy going while driving from Palakkad to Pathanamthitta,easy going,0,0,0,0,0.8813202247191011
+221,The road from Palakkad to Pathanamthitta are bad,bad,0,0,0,0,0.8763966480446927
+222,Roads were bad while driving from Palakkad to Pathanamthitta,bad,0,0,0,0,0.8715277777777777
+223,The road from Pathanamthitta to Thiruvananthapuram are smooth,smooth,0,0,0,0,0.8667127071823204
+224,Roads were smooth while driving from Pathanamthitta to Thiruvananthapuram,smooth,0,0,0,0,0.8709016393442623
+225,The road from Pathanamthitta to Thiruvananthapuram are very smooth,very smooth,0,0,0,0,0.875
+226,Roads were very smooth while driving from Pathanamthitta to Thiruvananthapuram,very smooth,0,0,0,0,0.8770161290322581
+227,The road from Pathanamthitta to Thiruvananthapuram are broken,broken,0,0,0,0,0.8790106951871658
+228,Roads were broken while driving from Pathanamthitta to Thiruvananthapuram,broken,0,0,0,0,0.8743351063829787
+229,The road from Pathanamthitta to Thiruvananthapuram are bumpy,bumpy,0,0,0,0,0.8697089947089948
+230,Roads were bumpy while driving from Pathanamthitta to Thiruvananthapuram,bumpy,0,0,0,0,0.8769633507853403
+231,The road from Pathanamthitta to Thiruvananthapuram are easy going,easy going,0,0,0,0,0.8840673575129533
+232,Roads were easy going while driving from Pathanamthitta to Thiruvananthapuram,easy going,0,0,0,0,0.8795103092783506
+233,The road from Pathanamthitta to Thiruvananthapuram are bad,bad,0,0,0,0,0.875
+234,Roads were bad while driving from Pathanamthitta to Thiruvananthapuram,bad,0,0,0,0,0.8705357142857142
+235,The road from Thiruvananthapuram to Thrissur are smooth,smooth,0,0,0,0,0.8661167512690355
+236,Roads were smooth while driving from Thiruvananthapuram to Thrissur,smooth,0,0,0,0,0.8699748743718593
+237,The road from Thiruvananthapuram to Thrissur are very smooth,very smooth,0,0,0,0,0.8737562189054726
+238,Roads were very smooth while driving from Thiruvananthapuram to Thrissur,very smooth,0,0,0,0,0.8756188118811881
+239,The road from Thiruvananthapuram to Thrissur are broken,broken,0,0,0,0,0.8774630541871921
+240,Roads were broken while driving from Thiruvananthapuram to Thrissur,broken,0,0,0,0,0.8731617647058822
+241,The road from Thiruvananthapuram to Thrissur are bumpy,bumpy,0,0,0,0,0.8689024390243902
+242,Roads were bumpy while driving from Thiruvananthapuram to Thrissur,bumpy,0,0,0,0,0.8756038647342995
+243,The road from Thiruvananthapuram to Thrissur are easy going,easy going,0,0,0,0,0.882177033492823
+244,Roads were easy going while driving from Thiruvananthapuram to Thrissur,easy going,0,0,0,0,0.8779761904761905
+245,The road from Thiruvananthapuram to Thrissur are bad,bad,0,0,0,0,0.8738151658767772
+246,Roads were bad while driving from Thiruvananthapuram to Thrissur,bad,0,0,0,0,0.8696933962264152
+247,The road from Thrissur to Wayanad are smooth,smooth,0,0,0,0,0.8656103286384976
+248,Roads were smooth while driving from Thrissur to Wayanad,smooth,0,0,0,0,0.8691860465116279
+249,The road from Thrissur to Wayanad are very smooth,very smooth,0,0,0,0,0.8726958525345623
+250,Roads were very smooth while driving from Thrissur to Wayanad,very smooth,0,0,0,0,0.8744266055045871
+251,The road from Thrissur to Wayanad are broken,broken,0,0,0,0,0.8761415525114156
+252,Roads were broken while driving from Thrissur to Wayanad,broken,0,0,0,0,0.8721590909090909
+253,The road from Thrissur to Wayanad are bumpy,bumpy,0,0,0,0,0.8682126696832579
+254,Roads were bumpy while driving from Thrissur to Wayanad,bumpy,0,0,0,0,0.8744394618834082
+255,The road from Thrissur to Wayanad are easy going,easy going,0,0,0,0,0.8805555555555555
+256,Roads were easy going while driving from Thrissur to Wayanad,easy going,0,0,0,0,0.8766592920353983
+257,The road from Thrissur to Wayanad are bad,bad,0,0,0,0,0.8727973568281938
+258,Roads were bad while driving from Thrissur to Wayanad,bad,0,0,0,0,0.0
+259,There is lot of resturants from Alappuzha to Ernakulam,0,0,lot of resturants,0,0,0.0
+260,On the way from Alappuzha to Ernakulam there is amusement parks,0,0,amusement parks,0,0,0.0
+261,There is less resturants from Alappuzha to Ernakulam,0,0,0,0,0,0.0
+262,On the way from Alappuzha to Ernakulam there is forest,0,0,forest,0,0,0.0
+263,There is few resturants from Alappuzha to Ernakulam,0,0,0,0,0,0.0
+264,On the way from Alappuzha to Ernakulam there is no scenary,0,0,no scenary,0,0,0.0
+265,There is lot of resturants from Ernakulam to Idukki,0,0,lot of resturants,0,0,0.0
+266,On the way from Ernakulam to Idukki there is amusement parks,0,0,amusement parks,0,0,0.0
+267,There is less resturants from Ernakulam to Idukki,0,0,0,0,0,0.0
+268,On the way from Ernakulam to Idukki there is forest,0,0,forest,0,0,0.0
+269,There is few resturants from Ernakulam to Idukki,0,0,0,0,0,0.0
+270,On the way from Ernakulam to Idukki there is no scenary,0,0,no scenary,0,0,0.0
+271,There is lot of resturants from Idukki to Kannur,0,0,lot of resturants,0,0,0.0
+272,On the way from Idukki to Kannur there is amusement parks,0,0,amusement parks,0,0,0.0
+273,There is less resturants from Idukki to Kannur,0,0,0,0,0,0.0
+274,On the way from Idukki to Kannur there is forest,0,0,forest,0,0,0.0
+275,There is few resturants from Idukki to Kannur,0,0,0,0,0,0.0
+276,On the way from Idukki to Kannur there is no scenary,0,0,no scenary,0,0,0.0
+277,There is lot of resturants from Kannur to Kasaragod,0,0,lot of resturants,0,0,0.0
+278,On the way from Kannur to Kasaragod there is amusement parks,0,0,amusement parks,0,0,0.0
+279,There is less resturants from Kannur to Kasaragod,0,0,0,0,0,0.0
+280,On the way from Kannur to Kasaragod there is forest,0,0,forest,0,0,0.0
+281,There is few resturants from Kannur to Kasaragod,0,0,0,0,0,0.0
+282,On the way from Kannur to Kasaragod there is no scenary,0,0,no scenary,0,0,0.0
+283,There is lot of resturants from Kasaragod to Kollam,0,0,lot of resturants,0,0,0.0
+284,On the way from Kasaragod to Kollam there is amusement parks,0,0,amusement parks,0,0,0.0
+285,There is less resturants from Kasaragod to Kollam,0,0,0,0,0,0.0
+286,On the way from Kasaragod to Kollam there is forest,0,0,forest,0,0,0.0
+287,There is few resturants from Kasaragod to Kollam,0,0,0,0,0,0.0
+288,On the way from Kasaragod to Kollam there is no scenary,0,0,no scenary,0,0,0.0
+289,There is lot of resturants from Kollam to Kottayam,0,0,lot of resturants,0,0,0.0
+290,On the way from Kollam to Kottayam there is amusement parks,0,0,amusement parks,0,0,0.0
+291,There is less resturants from Kollam to Kottayam,0,0,0,0,0,0.0
+292,On the way from Kollam to Kottayam there is forest,0,0,forest,0,0,0.0
+293,There is few resturants from Kollam to Kottayam,0,0,0,0,0,0.0
+294,On the way from Kollam to Kottayam there is no scenary,0,0,no scenary,0,0,0.0
+295,There is lot of resturants from Kottayam to Kozhikode,0,0,lot of resturants,0,0,0.0
+296,On the way from Kottayam to Kozhikode there is amusement parks,0,0,amusement parks,0,0,0.0
+297,There is less resturants from Kottayam to Kozhikode,0,0,0,0,0,0.0
+298,On the way from Kottayam to Kozhikode there is forest,0,0,forest,0,0,0.0
+299,There is few resturants from Kottayam to Kozhikode,0,0,0,0,0,0.0
+300,On the way from Kottayam to Kozhikode there is no scenary,0,0,no scenary,0,0,0.0
+301,There is lot of resturants from Kozhikode to Malappuram,0,0,lot of resturants,0,0,0.0
+302,On the way from Kozhikode to Malappuram there is amusement parks,0,0,amusement parks,0,0,0.0
+303,There is less resturants from Kozhikode to Malappuram,0,0,0,0,0,0.0
+304,On the way from Kozhikode to Malappuram there is forest,0,0,forest,0,0,0.0
+305,There is few resturants from Kozhikode to Malappuram,0,0,0,0,0,0.0
+306,On the way from Kozhikode to Malappuram there is no scenary,0,0,no scenary,0,0,0.0
+307,There is lot of resturants from Malappuram to Palakkad,0,0,lot of resturants,0,0,0.0
+308,On the way from Malappuram to Palakkad there is amusement parks,0,0,amusement parks,0,0,0.0
+309,There is less resturants from Malappuram to Palakkad,0,0,0,0,0,0.0
+310,On the way from Malappuram to Palakkad there is forest,0,0,forest,0,0,0.0
+311,There is few resturants from Malappuram to Palakkad,0,0,0,0,0,0.0
+312,On the way from Malappuram to Palakkad there is no scenary,0,0,no scenary,0,0,0.0
+313,There is lot of resturants from Palakkad to Pathanamthitta,0,0,lot of resturants,0,0,0.0
+314,On the way from Palakkad to Pathanamthitta there is amusement parks,0,0,amusement parks,0,0,0.0
+315,There is less resturants from Palakkad to Pathanamthitta,0,0,0,0,0,0.0
+316,On the way from Palakkad to Pathanamthitta there is forest,0,0,forest,0,0,0.0
+317,There is few resturants from Palakkad to Pathanamthitta,0,0,0,0,0,0.0
+318,On the way from Palakkad to Pathanamthitta there is no scenary,0,0,no scenary,0,0,0.0
+319,There is lot of resturants from Pathanamthitta to Thiruvananthapuram,0,0,lot of resturants,0,0,0.0
+320,On the way from Pathanamthitta to Thiruvananthapuram there is amusement parks,0,0,amusement parks,0,0,0.0
+321,There is less resturants from Pathanamthitta to Thiruvananthapuram,0,0,0,0,0,0.0
+322,On the way from Pathanamthitta to Thiruvananthapuram there is forest,0,0,forest,0,0,0.0
+323,There is few resturants from Pathanamthitta to Thiruvananthapuram,0,0,0,0,0,0.0
+324,On the way from Pathanamthitta to Thiruvananthapuram there is no scenary,0,0,no scenary,0,0,0.0
+325,There is lot of resturants from Thiruvananthapuram to Thrissur,0,0,lot of resturants,0,0,0.0
+326,on the way from Thiruvananthapuram to Thrissur there is amusement parks,0,0,amusement parks,0,0,0.0
+327,There is less resturants from Thiruvananthapuram to Thrissur,0,0,0,0,0,0.0
+328,On the way from Thiruvananthapuram to Thrissur there is forest,0,0,forest,0,0,0.0
+329,There is few resturants from Thiruvananthapuram to Thrissur,0,0,0,0,0,0.0
+330,On the way from Thiruvananthapuram to Thrissur there is no scenary,0,0,no scenary,0,0,0.0
+331,There is lot of resturants from Thrissur to Wayanad,0,0,lot of resturants,0,0,0.0
+332,On the way from Thrissur to Wayanad there is amusement parks,0,0,amusement parks,0,0,0.0
+333,There is less resturants from Thrissur to Wayanad,0,0,0,0,0,0.0
+334,On the way from Thrissur to Wayanad there is forest,0,0,forest,0,0,0.0
+335,There is few resturants from Thrissur to Wayanad,0,0,0,0,0,0.0
+336,On the way from Thrissur to Wayanad there is no scenary,0,0,no scenary,0,0,0.8689692982456141
+337,"On the way from Alappuzha to Ernakulam,the road was smooth and then traffic was heavy . There was lot of restuarants on the way On the way from Alappuzha to Ernakulam,the road was smooth and then traffic was heavy . There was less restuarants on the way On the way from Alappuzha to Ernakulam,the road was smooth and then traffic was heavy . There was few restuarants on the way On the way from Alappuzha to Ernakulam,the road was smooth and then traffic was very smooth . There was lot of restuarants on the way On the way from Alappuzha to Ernakulam,the road was smooth and then traffic was very smooth . There was less restuarants on the way On the way from Alappuzha to Ernakulam,the road was smooth and then traffic was very smooth . There was few restuarants on the way On the way from Alappuzha to Ernakulam,the road was smooth and then traffic was crawling . ",smooth,crawling,few restuarants,0,0,1.44209774941216
+338,"There was lot of restuarants  On the way from Kannur to Kasaragod,the road was bumpy and then traffic was heavy .",bumpy,heavy,lot of restuarants,0,0,1.4334469417833455
+339,"There was less restuarants  On the way from Kannur to Kasaragod,the road was bumpy and then traffic was heavy .",bumpy,heavy,less restuarants,0,0,1.424910873440285
+340,"There was few restuarants on the way Kannur to Kasaragod,the road was bumpy and then traffic was very smooth .",bumpy,very smooth,few restuarants,0,0,1.4324994656597323
+341,"There was lot of restuarants on the way from Kannur to Kasaragod,the road was bumpy and then traffic was very smooth . ",bumpy,very smooth,lot of restuarants,0,0,1.4397527827209602
+342,"There was less restuarants on the way from Kannur to Kasaragod,the road was bumpy and then traffic was very smooth .",bumpy,very smooth,less restuarants,0,0,1.4466880341880342
+343,"There was few restuarants on the way from Kannur to Kasaragod,the road was bumpy and then traffic was crawling .",bumpy,crawling,few restuarants,0,0,1.438323201621074
+344,"There was lot of restuarants on the way from Kannur to Kasaragod,the road was bumpy and then traffic was crawling .",bumpy,crawling,lot of restuarants,0,0,1.4300638929667688
+345,"There was less restuarants on the way from Kannur to Kasaragod,the road was bumpy and then traffic was crawling .",bumpy,crawling,less restuarants,0,0,1.4219079641350212
+346,"There was few restuarants on the way from Kannur to Kasaragod,the road was bumpy and then traffic was less .",bumpy,less,few restuarants,0,0,1.4186982932707968
+347,"There was lot of restuarants on the way from Kannur to Kasaragod,the road was bumpy and then traffic was less .",bumpy,less,lot of restuarants,0,0,1.4155133569359513
+348,"There was less restuarants on the way from Kannur to Kasaragod,the road was bumpy and then traffic was less . ",bumpy,less,less restuarants,0,0,1.4218943017326027
+349,"There was few restuarants on the way from Kannur to Kasaragod,the road was easy going and then traffic was heavy . ",easy going,heavy,few restuarants,0,0,1.423435746352413
+350,"There was lot of restuarants on the way from Kannur to Kasaragod,the road was easy going and then traffic was heavy . ",easy going,heavy,lot of restuarants,0,0,1.4249462943071967
+351,"There was less restuarants on the way from Kannur to Kasaragod,the road was easy going and then traffic was heavy . ",easy going,heavy,less restuarants,0,0,1.4264268233730135
+352,"There was few restuarants on the way from Kannur to Kasaragod,the road was easy going and then traffic was very smooth . ",easy going,very smooth,few restuarants,0,0,1.4420734408221119
+353,"There was lot of restuarants on the way from Kannur to Kasaragod,the road was easy going and then traffic was very smooth .",easy going,very smooth,lot of restuarants,0,0,1.4573409261504704
+354,"There was less restuarants on the way from Kannur to Kasaragod,the road was easy going and then traffic was very smooth .",easy going,very smooth,less restuarants,0,0,1.4722437888198758
+355,"There was few restuarants on the way from Kannur to Kasaragod,the road was easy going and then traffic was crawling .",easy going,crawling,few restuarants,0,0,1.4734042553191489
+356,"There was lot of restuarants on the way from Kannur to Kasaragod,the road was easy going and then traffic was crawling .",easy going,crawling,lot of restuarants,0,0,1.4745403353975997
+357,"There was less restuarants on the way Kannur to Kasaragod,the road was easy going and then traffic was crawling .",easy going,crawling,less restuarants,0,0,1.4756527256527256
+358,"There was few restuarants on the way from Kannur to Kasaragod,the road was easy going and then traffic was less . ",easy going,less,few restuarants,0,0,1.481082375478927
+359,"There was lot of restuarants on the way from Kannur to Kasaragod,the road was easy going and then traffic was less . ",easy going,less,lot of restuarants,0,0,1.4864297889078273
+360,"There was less restuarants on the way from Kannur to Kasaragod,the road was easy going and then traffic was less .",easy going,less,less restuarants,0,0,1.4832723640514736
+361,"There was few restuarants on the way from Kannur to Kasaragod,the road was bad and then traffic was heavy . ",bad,heavy,few restuarants,0,0,1.4758856372737774
+362,". There was lot of restuarants on the way from Kannur to Kasaragod,the road was bad and then traffic was heavy . ",bad,heavy,lot of restuarants,0,0,1.468578540946962
+363,"There was less restuarants on the way from Kannur to Kasaragod,the road was bad and then traffic was heavy . ",bad,heavy,less restuarants,0,0,1.4613496971068043
+364,"There was few restuarants on the way from Kannur to Kasaragod,the road was bad and then traffic was very smooth . ",bad,very smooth,few restuarants,0,0,1.4669461055648907
+365,"There was lot of restuarants on the way from Kannur to Kasaragod,the road was bad and then traffic was very smooth .",bad,very smooth,lot of restuarants,0,0,1.4723345967879098
+366,"There was less restuarants on the way from Kannur to Kasaragod,the road was bad and then traffic was very smooth .",bad,very smooth,less restuarants,0,0,1.4775238948626046
+367,"There was few restuarants on the way from Kannur to Kasaragod,the road was bad and then traffic was crawling .",bad,crawling,few restuarants,0,0,1.470426483110985
+368,"There was lot of restuarants on the way from Kannur to Kasaragod,the road was bad and then traffic was crawling . ",bad,crawling,lot of restuarants,0,0,1.4634021403147246
+369,"There was less restuarants on the way from Kannur to Kasaragod,the road was bad and then traffic was crawling .",bad,crawling,less restuarants,0,0,1.456449668474985
+370,"There was few restuarants on the way from Kannur to Kasaragod,the road was bad and then traffic was less . ",bad,less,few restuarants,0,0,1.4534987145939493
+371,"There was lot of restuarants on the way from Kannur to Kasaragod,the road was bad and then traffic was less . ",bad,less,lot of restuarants,0,0,1.4505681818181817
+372,"There was less restuarants on the way from Kannur to Kasaragod,the road was bad and then traffic was less . ",bad,less,less restuarants,0,0,1.447657867494824
+373,"There was few restuarants on the way from Kasaragod to Kollam,the road was smooth and then traffic was heavy .",smooth,heavy,few restuarants,0,0,1.4409095467308464
+374,"There was lot of restuarants on the way from Kasaragod to Kollam,the road was smooth and then traffic was heavy . ",smooth,heavy,lot of restuarants,0,0,1.4342283841638346
+375,"There was less restuarants on the way from Kasaragod to Kollam,the road was smooth and then traffic was heavy . ",smooth,heavy,less restuarants,0,0,1.4276133184718944
+376,"There was few restuarants on the way from Kasaragod to Kollam,the road was smooth and then traffic was very smooth .",smooth,very smooth,few restuarants,0,0,1.4326323149741826
+377,"There was lot of restuarants on the way from Kasaragod to Kollam,the road was smooth and then traffic was very smooth . ",smooth,very smooth,lot of restuarants,0,0,1.437481465005931
+378,"There was less restuarants on the way from Kasaragod to Kollam,the road was smooth and then traffic was very smooth .",smooth,very smooth,less restuarants,0,0,1.4421672924488946
+379,"There was few restuarants on the way from Kasaragod to Kollam,the road was smooth and then traffic was crawling .",smooth,crawling,few restuarants,0,0,1.4356673485834728
+380,"There was lot of restuarants on the way from Kasaragod to Kollam,the road was smooth and then traffic was crawling . ",smooth,crawling,lot of restuarants,0,0,1.4292294464461186
+381,"There was less restuarants on the way from Kasaragod to Kollam,the road was smooth and then traffic was crawling .",smooth,crawling,less restuarants,0,0,1.422852651860866
+382,"There was few restuarants on the way from Kasaragod to Kollam,the road was smooth and then traffic was less . ",smooth,less,few restuarants,0,0,1.4201280041797282
+383,"There was lot of restuarants on the way from Kasaragod to Kollam,the road was smooth and then traffic was less . ",smooth,less,lot of restuarants,0,0,1.4174216027874564
+384,"There was less restuarants on the way from Kasaragod to Kollam,the road was smooth and then traffic was less . ",smooth,less,less restuarants,0,0,1.4205528468071722
+385,"There was few restuarants on the way from Kasaragod to Kollam,the road was very smooth and then traffic was heavy . ",very smooth,heavy,few restuarants,0,0,1.420110373347312
+386,"There was lot of restuarants on the way from Kasaragod to Kollam,the road was very smooth and then traffic was heavy .",very smooth,heavy,lot of restuarants,0,0,1.4196657974460254
+387,"There was less restuarants on the way from Kasaragod to Kollam,the road was very smooth and then traffic was heavy .",very smooth,heavy,less restuarants,0,0,1.4192192974150175
+388,"There was few restuarants on the way from Kasaragod to Kollam,the road was very smooth and then traffic was very smooth . ",very smooth,very smooth,few restuarants,0,0,1.4293603623714122
+389,"There was lot of restuarants on the way from Kasaragod to Kollam,the road was very smooth and then traffic was very smooth .",very smooth,very smooth,lot of restuarants,0,0,1.4393035985160005
+390,"There was less restuarants on the way from Kasaragod to Kollam,the road was very smooth and then traffic was very smooth . ",very smooth,very smooth,less restuarants,0,0,1.449054951961929
+391,"There was few restuarants on the way from Kasaragod to Kollam,the road was very smooth and then traffic was crawling .",very smooth,crawling,few restuarants,0,0,1.448485574363888
+392,". There was lot of restuarants on the way from Kasaragod to Kollam,the road was very smooth and then traffic was crawling . ",very smooth,crawling,lot of restuarants,0,0,1.4479157534847023
+393,"There was less restuarants on the way from Kasaragod to Kollam,the road was very smooth and then traffic was crawling .",very smooth,crawling,less restuarants,0,0,1.4473456233973248
+394,"There was few restuarants on the way from Kasaragod to Kollam,the road was very smooth and then traffic was less .",very smooth,less,few restuarants,0,0,1.4500821903734522
+395,"There was lot of restuarants on the way from Kasaragod to Kollam,the road was very smooth and then traffic was less . ",very smooth,less,lot of restuarants,0,0,1.4527838889829072
+396,". There was less restuarants on the way from Kasaragod to Kollam,the road was very smooth and then traffic was less . ",very smooth,less,less restuarants,0,0,1.4541905792723855
+397,"There was few restuarants on the way from Kasaragod to Kollam,the road was broken and then traffic was heavy . ",broken,heavy,few restuarants,0,0,1.452332517971246
+398,"There was lot of restuarants on the way from Kasaragod to Kollam,the road was broken and then traffic was heavy .",broken,heavy,lot of restuarants,0,0,1.4504987459159762
+399,"There was less restuarants on the way from Kasaragod to Kollam,the road was broken and then traffic was heavy . ",broken,heavy,less restuarants,0,0,1.4486888397970872
+400,"There was few restuarants on the way from Kasaragod to Kollam,the road was broken and then traffic was very smooth . ",broken,very smooth,few restuarants,0,0,1.4566649444587962
+401,"There was few restuarants on the way from Kasaragod to Kollam,the road was broken and then traffic was very smooth . ",broken,very smooth,few restuarants,0,0,1.464497100340949
+402,"There was less restuarants on the way from Kasaragod to Kollam,the road was broken and then traffic was very smooth . ",broken,very smooth,less restuarants,0,0,1.472189465408805
+403,". There was few restuarants on the way from Kasaragod to Kollam,the road was broken and then traffic was crawling . ",broken,crawling,few restuarants,0,0,1.4703714967482338
+404,"There was lot of restuarants on the way from Kasaragod to Kollam,the road was broken and then traffic was crawling .",broken,crawling,lot of restuarants,0,0,1.4685759591584158
+405,"There was less restuarants on the way from Kasaragod to Kollam,the road was broken and then traffic was crawling . ",broken,crawling,less restuarants,0,0,1.4668024799349324
+406,"There was less restuarants on the way from Kasaragod to Kollam,the road was broken and then traffic was crawling . ",broken,crawling,less restuarants,0,0,1.4650506941907198
+407,"There was few restuarants on the way from Kasaragod to Kollam,the road was broken and then traffic was less .",broken,less,few restuarants,0,0,1.4663690251453598
+408,"There was lot of restuarants on the way from Kasaragod to Kollam,the road was broken and then traffic was less .",broken,less,lot of restuarants,0,0,1.467678742658516
+409,"There was less restuarants on the way from Kasaragod to Kollam,the road was broken and then traffic was less ",broken,0,less restuarants,0,0,0.8673076923076923
+410,"There was few restuarants on the way from Kasaragod to Kollam,the road was bumpy and then traffic was heavy . ",bumpy,heavy,few restuarants,0,0,1.4594540025488278
+411,"There was lot of restuarants on the way from Kasaragod to Kollam,the road was bumpy and then traffic was heavy ",bumpy,0,lot of restuarants,0,0,0.8620030581039756
+412,"There was less restuarants on the way from Kasaragod to Kollam,the road was bumpy and then traffic was heavy .",bumpy,heavy,less restuarants,0,0,1.4513221153846154
+413,"There was few restuarants on the way from Kasaragod to Kollam,the road was bumpy and then traffic was very smooth .",bumpy,very smooth,few restuarants,0,0,1.4549772036474165
+414,"There was lot of restuarants on the way from Kasaragod to Kollam,the road was bumpy and then traffic was very smooth .",bumpy,very smooth,lot of restuarants,0,0,1.4585298742138364
+415,"There was less restuarants on the way from Kasaragod to Kollam,the road was bumpy and then traffic was very smooth . ",bumpy,very smooth,less restuarants,0,0,1.4619832989807156
+416,". There was few restuarants on the way from Kasaragod to Kollam,the road was bumpy and then traffic was crawling . ",bumpy,crawling,few restuarants,0,0,1.456579223872233
+417,"There was lot of restuarants on the way from Kasaragod to Kollam,the road was bumpy and then traffic was crawling . ",bumpy,crawling,lot of restuarants,0,0,1.451216841841842
+418,"There was less restuarants on the way from Kasaragod to Kollam,the road was bumpy and then traffic was crawling . ",bumpy,crawling,less restuarants,0,0,1.445895651094125
+419,"There was few restuarants on the way from Kasaragod to Kollam,the road was bumpy and then traffic was less . ",bumpy,less,few restuarants,0,0,1.4434821306312473
+420,"There was lot of restuarants on the way from Kasaragod to Kollam,the road was bumpy and then traffic was less .",bumpy,less,lot of restuarants,0,0,1.4410826402478798
+421,"There was less restuarants on the way from Kasaragod to Kollam,the road was bumpy and then traffic was less . ",bumpy,less,less restuarants,0,0,1.4454679935449166
+422,"There was few restuarants on the way from Kasaragod to Kollam,the road was easy going and then traffic was heavy ",easy going,0,few restuarants,0,0,0.8474264705882353
+423,". There was lot of restuarants on the way from Kasaragod to Kollam,the road was easy going and then traffic was heavy . ",easy going,heavy,lot of restuarants,0,0,1.4511556984467202
+424,"There was few restuarants on the way On the way from Kasaragod to Kollam,the road was easy going and then traffic was very smooth ",easy going,0,few restuarants,0,0,0.8557412790697674
+425,". There was lot of restuarants on the way from Kasaragod to Kollam,the road was easy going and then traffic was very smooth",easy going,0,lot of restuarants,0,0,0.8598265895953758
+426,"There was less restuarants on the way from Kasaragod to Kollam,the road was easy going and then traffic was very smooth .",easy going,very smooth,less restuarants,0,0,1.4692461084480182
+427,"There was few restuarants on the way from Kasaragod to Kollam,the road was easy going and then traffic was crawling .",easy going,crawling,few restuarants,0,0,1.4705357142857143
+428,"There was lot of restuarants on the way from Kasaragod to Kollam,the road was easy going and then traffic was crawling . ",easy going,crawling,lot of restuarants,0,0,1.4718039772727272
+429,"There was less restuarants on the way from Kasaragod to Kollam,the road was easy going and then traffic was crawling .",easy going,crawling,less restuarants,0,0,1.4730513474326283
+430,"There was few restuarants on the way from Kasaragod to Kollam,the road was easy going and then traffic was less .",easy going,less,few restuarants,0,0,1.477031567093996
+431,"There was lot of restuarants on the way from Kasaragod to Kollam,the road was easy going and then traffic was less . ",easy going,less,lot of restuarants,0,0,1.4809676075664018
+432,"There was less restuarants on the way from Kasaragod to Kollam,the road was easy going and then traffic was less . ",easy going,less,less restuarants,0,0,1.4786266436364963
+433,"There was few restuarants on the way from Kasaragod to Kollam,the road was bad and then traffic was heavy .",bad,heavy,few restuarants,0,0,1.4735809178743962
+434,"There was lot of restuarants on the way from Kasaragod to Kollam,the road was bad and then traffic was heavy .",bad,heavy,lot of restuarants,0,0,1.4685712486959024
+435,"There was less restuarants on the way from Kasaragod to Kollam,the road was bad and then traffic was heavy . ",bad,heavy,less restuarants,0,0,1.4635972328062488
+436,". There was few restuarants on the way from Kasaragod to Kollam,the road was bad and then traffic was very smooth ",bad,0,few restuarants,0,0,0.8712121212121213
+437,"There was lot of restuarants on the way from Kasaragod to Kollam,the road was bad and then traffic was very smooth ",bad,0,lot of restuarants,0,0,0.8688186813186813
+438,"There was less restuarants on the way from Kasaragod to Kollam,the road was bad and then traffic was very smooth . ",bad,very smooth,less restuarants,0,0,1.4620580142840418
+439,". There was few restuarants on the way from Kasaragod to Kollam,the road was bad and then traffic was crawling .",bad,crawling,few restuarants,0,0,1.4571561446343448
+440,"There was lot of restuarants on the way from Kasaragod to Kollam,the road was bad and then traffic was crawling . ",bad,crawling,lot of restuarants,0,0,1.4522886551517111
+441,"There was less restuarants on the way from Kasaragod to Kollam,the road was bad and then traffic was crawling . ",bad,crawling,less restuarants,0,0,1.4474551687763715
+442,"There was few restuarants on the way from Kasaragod to Kollam,the road was bad and then traffic was less",bad,0,few restuarants,0,0,0.8570460704607046
+443,"There was lot of restuarants on the way from Kasaragod to Kollam,the road was bad and then traffic was less . ",bad,less,lot of restuarants,0,0,1.4429650238473768
+444,"There was less restuarants on the way from Kasaragod to Kollam,the road was bad and then traffic was less . ",bad,less,less restuarants,0,0,1.4408149973496935
+445,"There was few restuarants on the way from Kollam to Kottayam,the road was smooth and then traffic was heavy ",smooth,0,few restuarants,0,0,0.8501344086021505
+446,"There was few restuarants on the way from Kollam to Kottayam,the road was smooth and then traffic was heavy ",smooth,0,few restuarants,0,0,0.8478552278820375
+447,". There was less restuarants on the way from Kollam to Kottayam,the road was smooth and then traffic was heavy . ",smooth,heavy,less restuarants,0,0,1.4315257352941178
+448,"There was few restuarants on the way from Kollam to Kottayam,the road was smooth and then traffic was very smooth ",smooth,0,few restuarants,0,0,0.8433333333333333
+449,"There was lot of restuarants on the way from Kollam to Kottayam,the road was smooth and then traffic was very smooth ",smooth,0,lot of restuarants,0,0,0.8410904255319149
+450,"There was less restuarants on the way from Kollam to Kottayam,the road was smooth and then traffic was very smooth ",smooth,0,less restuarants,0,0,0.8388594164456233
+451,"There was few restuarants on the way from Kollam to Kottayam,the road was smooth and then traffic was crawling ",smooth,0,few restuarants,0,0,0.8366402116402116
+452,"There was lot of restuarants on the way from Kollam to Kottayam,the road was smooth and then traffic was crawling . ",smooth,crawling,lot of restuarants,0,0,1.4179389417444903
+453,"There was less restuarants on the way from Kollam to Kottayam,the road was smooth and then traffic was crawling ",smooth,0,less restuarants,0,0,0.832236842105263
+454,"There was few restuarants on the way from Kollam to Kottayam,the road was smooth and then traffic was less .",smooth,less,few restuarants,0,0,1.4137301793887336
+455,". There was lot of restuarants on the way from Kollam to Kottayam,the road was smooth and then traffic was less . ",smooth,less,lot of restuarants,0,0,1.4117273177773468
+456,"There was less restuarants on the way from Kollam to Kottayam,the road was smooth and then traffic was less ",smooth,0,less restuarants,0,0,0.830078125
+457,"There was few restuarants on the way from Kollam to Kottayam,the road was very smooth and then traffic was heavy ",very smooth,0,few restuarants,0,0,0.8322538860103628
+458,"There was lot of restuarants on the way from Kollam to Kottayam,the road was very smooth and then traffic was heavy . ",very smooth,heavy,lot of restuarants,0,0,1.4158621345276323
+459,". There was less restuarants on the way from Kollam to Kottayam,the road was very smooth and then traffic was heavy . ",very smooth,heavy,less restuarants,0,0,1.4156200941915227
+460,"There was few restuarants on the way from Kollam to Kottayam,the road was very smooth and then traffic was very smooth ",very smooth,0,few restuarants,0,0,0.8386479591836735
+461,". There was lot of restuarants on the way from Kollam to Kottayam,the road was very smooth and then traffic was very smooth . ",very smooth,very smooth,lot of restuarants,0,0,1.4252502106496228
+462,"There was less restuarants on the way from Kollam to Kottayam,the road was very smooth and then traffic was very smooth ",very smooth,0,less restuarants,0,0,0.8428030303030303
+463,"There was few restuarants on the way from Kollam to Kottayam,the road was very smooth and then traffic was crawling ",very smooth,0,few restuarants,0,0,0.8448492462311558
+464,". There was lot of restuarants on the way from Kollam to Kottayam,the road was very smooth and then traffic was crawling ",very smooth,0,lot of restuarants,0,0,0.846875
+465,"There was less restuarants on the way from Kollam to Kottayam,the road was very smooth and then traffic was crawling . ",very smooth,crawling,less restuarants,0,0,1.4310378550794414
+466,"There was few restuarants on the way from Kollam to Kottayam,the road was very smooth and then traffic was less .",very smooth,less,few restuarants,0,0,1.4331956539027395
+467,"There was lot of restuarants on the way from Kollam to Kottayam,the road was very smooth and then traffic was less ",very smooth,0,lot of restuarants,0,0,0.8528325123152709
+468,"There was less restuarants on the way from Kollam to Kottayam,the road was very smooth and then traffic was less . ",very smooth,less,less restuarants,0,0,1.4363083538083536
+469,"There was few restuarants on the way from Kollam to Kottayam,the road was broken and then traffic was heavy . ",broken,heavy,few restuarants,0,0,1.4349586946332318
+470,"There was lot of restuarants on the way from Kollam to Kottayam,the road was broken and then traffic was heavy . ",broken,heavy,lot of restuarants,0,0,1.433622705398378
+471,"There was less restuarants on the way from Kollam to Kottayam,the road was broken and then traffic was heavy ",broken,0,less restuarants,0,0,0.8567073170731708
+472,"There was few restuarants on the way from Kollam to Kottayam,the road was broken and then traffic was very smooth ",broken,0,few restuarants,0,0,0.8576642335766425
+473,"There was lot of restuarants on the way from Kollam to Kottayam,the road was broken and then traffic was very smooth . ",broken,very smooth,lot of restuarants,0,0,1.4417857961929517
+474,"There was less restuarants on the way from Kollam to Kottayam,the road was broken and then traffic was very smooth . ",broken,very smooth,less restuarants,0,0,1.4479430708989105
+475,"There was few restuarants on the way from Kollam to Kottayam,the road was broken and then traffic was crawling . ",broken,crawling,few restuarants,0,0,1.4465967405402358
+476,"There was lot of restuarants on the way from Kollam to Kottayam,the road was broken and then traffic was crawling .",broken,crawling,lot of restuarants,0,0,1.4452636125898943
+477,"There was less restuarants on the way from Kollam to Kottayam,the road was broken and then traffic was crawling . ",broken,crawling,less restuarants,0,0,1.4439435142560142
+478,"There was few restuarants on the way from Kollam to Kottayam,the road was broken and then traffic was less . ",broken,less,few restuarants,0,0,1.445040121748755
+479,"There was lot of restuarants on the way from Kollam to Kottayam,the road was broken and then traffic was less .",broken,less,lot of restuarants,0,0,1.4461310014849036
+480,"There was less restuarants on the way from Kollam to Kottayam,the road was broken and then traffic was less .",broken,less,less restuarants,0,0,1.4442329064111206
+481,"There was few restuarants on the way from Kollam to Kottayam,the road was bumpy and then traffic was heavy . ",bumpy,heavy,few restuarants,0,0,1.4399669563642947
+482,"There was lot of restuarants on the way from Kollam to Kottayam,the road was bumpy and then traffic was heavy . ",bumpy,heavy,lot of restuarants,0,0,1.4357275246527026
+483,"There was less restuarants on the way from Kollam to Kottayam,the road was bumpy and then traffic was heavy .",bumpy,heavy,less restuarants,0,0,1.4315143521416434
+484,"There was few restuarants on the way from Kollam to Kottayam,the road was bumpy and then traffic was very smooth ",bumpy,0,few restuarants,0,0,0.8540189125295508
+485,". There was lot of restuarants on the way from Kollam to Kottayam,the road was bumpy and then traffic was very smooth .",bumpy,very smooth,lot of restuarants,0,0,1.4325290615504205
+486,"There was less restuarants on the way from Kollam to Kottayam,the road was bumpy and then traffic was very smooth ",bumpy,0,less restuarants,0,0,0.8500000000000001
+487,"There was few restuarants on the way from Kollam to Kottayam,the road was bumpy and then traffic was crawling .",bumpy,crawling,few restuarants,0,0,1.426362903790905
+488,"There was lot of restuarants on the way from Kollam to Kottayam,the road was bumpy and then traffic was crawling .",bumpy,crawling,lot of restuarants,0,0,1.4222269138016594
+489,"There was less restuarants on the way from Kollam to Kottayam,the road was bumpy and then traffic was crawling . ",bumpy,crawling,less restuarants,0,0,1.4181161301488405
+490,"There was few restuarants on the way from Kollam to Kottayam,the road was bumpy and then traffic was less .",bumpy,less,few restuarants,0,0,1.416336584694518
+491,"There was lot of restuarants on the way from Kollam to Kottayam,the road was bumpy and then traffic was less .",bumpy,less,lot of restuarants,0,0,1.414564808481532
+492,"There was less restuarants on the way from Kollam to Kottayam,the road was bumpy and then traffic was less .",bumpy,less,less restuarants,0,0,1.4180943477818477
+493,"There was few restuarants on the way from Kollam to Kottayam,the road was easy going and then traffic was heavy . ",easy going,heavy,few restuarants,0,0,1.419310689898752
+494,"There was lot of restuarants on the way from Kollam to Kottayam,the road was easy going and then traffic was heavy . ",easy going,heavy,lot of restuarants,0,0,1.4205118849040868
+495,"There was less restuarants on the way from Kollam to Kottayam,the road was easy going and then traffic was heavy .",easy going,heavy,less restuarants,0,0,1.4216981834425253
+496,"There was few restuarants on the way from Kollam to Kottayam,the road was easy going and then traffic was very smooth . ",easy going,very smooth,few restuarants,0,0,1.4298254578155656
+497,"There was lot of restuarants on the way from Kollam to Kottayam,the road was easy going and then traffic was very smooth . ",easy going,very smooth,lot of restuarants,0,0,1.4378535067873304
+498,"There was less restuarants on the way from Kollam to Kottayam,the road was easy going and then traffic was very smooth .",easy going,very smooth,less restuarants,0,0,1.44578421506613
+499,"There was few restuarants on the way from Kollam to Kottayam,the road was easy going and then traffic was crawling . ",easy going,crawling,few restuarants,0,0,1.4468617788271088
+500,"There was lot of restuarants on the way from Kollam to Kottayam,the road was easy going and then traffic was crawling . ",easy going,crawling,lot of restuarants,0,0,1.4479258362676055
+501,"There was less restuarants on the way from Kollam to Kottayam,the road was easy going and then traffic was crawling .",easy going,crawling,less restuarants,0,0,1.4489766081871347
+502,"There was few restuarants on the way from Kollam to Kottayam,the road was easy going and then traffic was less . ",easy going,less,few restuarants,0,0,1.452199625595643
+503,"There was lot of restuarants on the way from Kollam to Kottayam,the road was easy going and then traffic was less . ",easy going,less,lot of restuarants,0,0,1.455394557092204
+504,"There was less restuarants on the way from Kollam to Kottayam,the road was easy going and then traffic was less . ",easy going,less,less restuarants,0,0,1.4536305708180708
+505,"There was few restuarants on the way from Kollam to Kottayam,the road was bad and then traffic was heavy .",bad,heavy,few restuarants,0,0,1.4497112699568993
+506,"There was lot of restuarants on the way from Kollam to Kottayam,the road was bad and then traffic was heavy . ",bad,heavy,lot of restuarants,0,0,1.4458141552855959
+507,"There was less restuarants on the way from Kollam to Kottayam,the road was bad and then traffic was heavy . ",bad,heavy,less restuarants,0,0,1.4419390296973245
+508,"There was few restuarants on the way from Kollam to Kottayam,the road was bad and then traffic was very smooth . ",bad,very smooth,few restuarants,0,0,1.444674949995167
+509,"There was lot of restuarants on the way from Kollam to Kottayam,the road was bad and then traffic was very smooth . ",bad,very smooth,lot of restuarants,0,0,1.4473563006632277
+510,"There was less restuarants on the way from Kollam to Kottayam,the road was bad and then traffic was very smooth . ",bad,very smooth,less restuarants,0,0,1.4499842970558807
+511,"There was few restuarants on the way from Kollam to Kottayam,the road was bad and then traffic was crawling .",bad,crawling,few restuarants,0,0,1.4461489293704057
+512,"There was lot of restuarants on the way from Kollam to Kottayam,the road was bad and then traffic was crawling . ",bad,crawling,lot of restuarants,0,0,1.4423347804416449
+513,"There was less restuarants on the way from Kollam to Kottayam,the road was bad and then traffic was crawling .",bad,crawling,less restuarants,0,0,1.4385416666666666
+514,". There was few restuarants on the way from Kollam to Kottayam,the road was bad and then traffic was less .",bad,less,few restuarants,0,0,1.4368458185975064
+515,"There was lot of restuarants on the way from Kollam to Kottayam,the road was bad and then traffic was less . ",bad,less,lot of restuarants,0,0,1.4351568939544666
+516,"There was less restuarants on the way from Kollam to Kottayam,the road was bad and then traffic was less . ",bad,less,less restuarants,0,0,1.433474851767832
+517,"There was few restuarants on the way from Kottayam to Kozhikode,the road was smooth and then traffic was heavy . ",smooth,heavy,few restuarants,0,0,1.4297437303193883
+518,". There was lot of restuarants on the way from Kottayam to Kozhikode,the road was smooth and then traffic was heavy . ",smooth,heavy,lot of restuarants,0,0,1.4260328917473521
+519,"There was less restuarants on the way from Kottayam to Kozhikode,the road was smooth and then traffic was heavy .",smooth,heavy,less restuarants,0,0,1.4223421638158809
+520,"There was few restuarants on the way from Kottayam to Kozhikode,the road was smooth and then traffic was very smooth . ",smooth,very smooth,few restuarants,0,0,1.4249308944770727
+521,"There was lot of restuarants on the way from Kottayam to Kozhikode,the road was smooth and then traffic was very smooth . ",smooth,very smooth,lot of restuarants,0,0,1.4274706123564789
+522,"There was less restuarants on the way from Kottayam to Kozhikode,the road was smooth and then traffic was very smooth . ",smooth,very smooth,less restuarants,0,0,1.429962358378056
+523,". There was few restuarants on the way from Kottayam to Kozhikode,the road was smooth and then traffic was crawling . ",smooth,crawling,few restuarants,0,0,1.4263086235019748
+524,"There was lot of restuarants on the way from Kottayam to Kozhikode,the road was smooth and then traffic was crawling . ",smooth,crawling,lot of restuarants,0,0,1.4226743211532014
+525,"There was less restuarants on the way from Kottayam to Kozhikode,the road was smooth and then traffic was crawling .",smooth,crawling,less restuarants,0,0,1.4190592903828199
+526,"There was few restuarants on the way from Kottayam to Kozhikode,the road was smooth and then traffic was less . ",smooth,less,few restuarants,0,0,1.4174412201788607
+527,"There was lot of restuarants on the way from Kottayam to Kozhikode,the road was smooth and then traffic was less . ",smooth,less,lot of restuarants,0,0,1.4158296265987356
+528,"There was less restuarants on the way from Kottayam to Kozhikode,the road was smooth and then traffic was less . ",smooth,less,less restuarants,0,0,1.4176985062893084
+529,"There was few restuarants on the way from Kottayam to Kozhikode,the road was very smooth and then traffic was heavy ",very smooth,0,few restuarants,0,0,0.837655601659751
+530,"There was lot of restuarants on the way from Kottayam to Kozhikode,the road was very smooth and then traffic was heavy .",very smooth,heavy,lot of restuarants,0,0,1.4192968082074664
+531,". There was less restuarants on the way from Kottayam to Kozhikode,the road was very smooth and then traffic was heavy . ",very smooth,heavy,less restuarants,0,0,1.4191743827160495
+532,"There was few restuarants on the way from Kottayam to Kozhikode,the road was very smooth and then traffic was very smooth . ",very smooth,very smooth,few restuarants,0,0,1.4250235464820282
+533,". There was lot of restuarants on the way from Kottayam to Kozhikode,the road was very smooth and then traffic was very smooth . ",very smooth,very smooth,lot of restuarants,0,0,1.4308075081884606
+534,"There was less restuarants on the way from Kottayam to Kozhikode,the road was very smooth and then traffic was very smooth .",very smooth,very smooth,less restuarants,0,0,1.436527382911866
+535,". There was few restuarants on the way from Kottayam to Kozhikode,the road was very smooth and then traffic was crawling . ",very smooth,crawling,few restuarants,0,0,1.4363570800678476
+536,"There was lot of restuarants on the way from Kottayam to Kozhikode,the road was very smooth and then traffic was crawling .",very smooth,crawling,lot of restuarants,0,0,1.4361845987411486
+537,". There was less restuarants on the way  from Kottayam to Kozhikode,the road was very smooth and then traffic was crawling .",very smooth,crawling,less restuarants,0,0,1.4360099974365548
+538,"There was few restuarants on the way  from Kottayam to Kozhikode,the road was very smooth and then traffic was less .",very smooth,less,few restuarants,0,0,1.4377272727272727
+539,". There was lot of restuarants on the way  from Kottayam to Kozhikode,the road was very smooth and then traffic was less . ",very smooth,less,lot of restuarants,0,0,1.4394310973628144
+540,". There was less restuarants on the way from Kottayam to Kozhikode,the road was very smooth and then traffic was less . ",very smooth,less,less restuarants,0,0,1.4403376428177919
+541,"There was few restuarants on the way from Kottayam to Kozhikode,the road was broken and then traffic was heavy . ",broken,heavy,few restuarants,0,0,1.4393634706134706
+542,"There was lot of restuarants on the way from Kottayam to Kozhikode,the road was broken and then traffic was heavy . ",broken,heavy,lot of restuarants,0,0,1.438396721408668
+543,"There was less restuarants on the way from Kottayam to Kozhikode,the road was broken and then traffic was heavy . ",broken,heavy,less restuarants,0,0,1.437437319332193
+544,"There was few restuarants on the way from Kottayam to Kozhikode,the road was broken and then traffic was very smooth . ",broken,very smooth,few restuarants,0,0,1.4421869787368529
+545,". There was lot of restuarants on the way  from Kottayam to Kozhikode,the road was broken and then traffic was very smooth .",broken,very smooth,lot of restuarants,0,0,1.446886686177502
+546,". There was less restuarants on the way from Kottayam to Kozhikode,the road was broken and then traffic was very smooth .",broken,very smooth,less restuarants,0,0,1.4515372848838215
+547,"There was few restuarants on the way from Kottayam to Kozhikode,the road was broken and then traffic was crawling . ",broken,crawling,few restuarants,0,0,1.4505718954248366
+548,"There was lot of restuarants on the way from Kottayam to Kozhikode,the road was broken and then traffic was crawling . ",broken,crawling,lot of restuarants,0,0,1.4496136027796636
+549,"There was less restuarants on the way from Kottayam to Kozhikode,the road was broken and then traffic was crawling .",broken,crawling,less restuarants,0,0,1.4486623364825582
+550,"There was few restuarants on the way from Kottayam to Kozhikode,the road was broken and then traffic was less . ",broken,less,few restuarants,0,0,1.4495296211543351
+551,"There was lot of restuarants on the way from Kottayam to Kozhikode,the road was broken and then traffic was less . ",broken,less,lot of restuarants,0,0,1.4503933222374665
+552,"There was less restuarants on the way from Kottayam to Kozhikode,the road was broken and then traffic was less . ",broken,less,less restuarants,0,0,1.448826277944098
+553,"There was few restuarants on the way from Kottayam to Kozhikode,the road was bumpy and then traffic was heavy . ",bumpy,heavy,few restuarants,0,0,1.4454691259021653
+554,"There was lot of restuarants on the way from Kottayam to Kozhikode,the road was bumpy and then traffic was heavy . ",bumpy,heavy,lot of restuarants,0,0,1.4421281029523425
+555,"There was less restuarants on the way from Kottayam to Kozhikode,the road was bumpy and then traffic was heavy . ",bumpy,heavy,less restuarants,0,0,1.4388030888030887
+556,"There was few restuarants on the way from Kottayam to Kozhikode,the road was bumpy and then traffic was very smooth .",bumpy,very smooth,few restuarants,0,0,1.440947133911368
+557,". There was lot of restuarants on the way from Kottayam to Kozhikode,the road was bumpy and then traffic was very smooth . ",bumpy,very smooth,lot of restuarants,0,0,1.4430546501521078
+558,"There was less restuarants on the way from Kottayam to Kozhikode,the road was bumpy and then traffic was very smooth .",bumpy,very smooth,less restuarants,0,0,1.4451263236213852
+559,". There was few restuarants on the way from Kottayam to Kozhikode,the road was bumpy and then traffic was crawling . ",bumpy,crawling,few restuarants,0,0,1.4418324801184839
+560,"There was lot of restuarants on the way from Kottayam to Kozhikode,the road was bumpy and then traffic was crawling . ",bumpy,crawling,lot of restuarants,0,0,1.4385541621714004
+561,"There was few restuarants on the way from Kannur to Kasaragod,the road was bumpy and then traffic was heavy . ",bumpy,heavy,few restuarants,0,0,0.5884401114206128
+562,Kochi to kodaikkanal traffic was very less and enjoyed the drive only problem was between pollachi and palani,0,less,0,0,0,0.5885416666666666
